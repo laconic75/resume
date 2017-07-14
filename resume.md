@@ -1,100 +1,84 @@
-Johnny Coder
+Joel Robinson
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Computer and Networking technician specializing in Linux systems. 
+>  
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2013-2015 (expected)
+:   **AAS, Computer Science**; Wallace State (Hanceville)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *   Currently a 3.926 GPA
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Coursera
+:   Online courses at Coursera
 
-    *Minor: Awesomeology*
+    *   [**An Introduction to Interactive Programming in Python**](https://www.coursera.org/records/RXCMBdTpNzHEa6qp)
+    *   [**Principles of Computing**](https://www.coursera.org/records/DNXKW9H8KBKPjnYs)
+    *   [**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/records/H2bw9xMP6BnGeuSL)
+    *   [**POSA: Programming Mobile Services for Android Handheld Systems**](https://www.coursera.org/records/phHARnLm7eF5kV7A)
+    *   [**Programming Cloud Services for Android Handheld Systems**](https://www.coursera.org/records/hzZtHNL4d7uEqDJg)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**George's TV and appliance:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+I do troubleshooting and repair on consumer electronics, and computers. I also do some
+networking and server work for some local businesses. As a side responsibility,
+I am responsible for maintaining the network at our business, 10 computers plus iPads and phones,
+and a Linux server which runs as a SMB and FTP server. I also 
+wrote and am maintaining a small company website:
 
-* First item
+* Employed: Sept.2000-Present
+* Address: 921 Russell Dairy Rd Jasper, AL
+* Phone: (205) 387-8623
+* [Company website](http://www.georgestv.net) My first website, it's very basic.
+  It has some basic php to avoid repeating the menus on each page.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
+Technical Projects and Education 
+--------------------------------
 
-Also with a short description.
+My Blog
+:   [**Conexions.me**](http://www.conexions.me/blog) My technical blog
 
-Technical Experience
---------------------
+Github 
+:   **laconic75** A couple of small [side projects](https://github.com/laconic75) 
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Certification
+:   **A+** [COMP001004346183](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LW62JPE2LEBEQM5Q)
+:   **Network+** [COMP001004346183](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LW62JPE2LEBEQM5Q)
+:   **RHCSA** [140-039-298](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=140-039-298&isSearch=False&verify=Verify)
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python**
+:   **Bash**
+:   **Ansible**
+:   **Terraform**
+:   **Java**
+:   **C++**, some basic knowlege 
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Personal
 ----------------------------------------
 
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Spanish (started learning 20 years ago, been speaking Spanish daily for last 15 years) 
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Musical Instruments:
+     * Piano
+     * Guitar
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <laconic75@gmail.com> •  (205)471-9842 •  
+> 115 Virginia Cir, Jasper, AL 35503
