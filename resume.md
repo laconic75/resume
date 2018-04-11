@@ -19,18 +19,18 @@ Education
 Coursera
 :   Online courses at Coursera
 
-    *   [**An Introduction to Interactive Programming in Python**](https://www.coursera.org/records/RXCMBdTpNzHEa6qp)
-    *   [**Principles of Computing**](https://www.coursera.org/records/DNXKW9H8KBKPjnYs)
-    *   [**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/records/H2bw9xMP6BnGeuSL)
-    *   [**POSA: Programming Mobile Services for Android Handheld Systems**](https://www.coursera.org/records/phHARnLm7eF5kV7A)
-    *   [**Programming Cloud Services for Android Handheld Systems**](https://www.coursera.org/records/hzZtHNL4d7uEqDJg)
+    *   **[An Introduction to Interactive Programming in Python](https://www.coursera.org/records/RXCMBdTpNzHEa6qp)**
+    *   **[Principles of Computing](https://www.coursera.org/records/DNXKW9H8KBKPjnYs)**
+    *   **[Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/records/H2bw9xMP6BnGeuSL)**
+    *   **[POSA: Programming Mobile Services for Android Handheld Systems](https://www.coursera.org/records/phHARnLm7eF5kV7A)**
+    *   **[Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/records/hzZtHNL4d7uEqDJg)**
 
 Experience
 ----------
 
 **George's TV and Appliance:**
     
-####Electronics Technician
+#### Electronics Technician
 
 I did troubleshooting and repair on consumer electronics, and computers. I also did 
 networking and server work for some local businesses. As a side responsibility, I was the 
@@ -46,7 +46,7 @@ that served as a Samba and an FTP server. I also set up a local DNS server with 
 
 **BBVA Compass:**
 
-####Techincal Architect II
+#### Techincal Architect II
 
 I am working principaly in automation in deployment and testing, and programing best practices. 
 We have been working to move our infrastructure to AWS and have been using [Terraform](https://www.terraform.io) and [Ansible](https://www.ansible.com)
