@@ -13,10 +13,12 @@ html: style_chmduquesne.css resume.md
         -o resume.html resume.md
 
 docx: resume.md
-	pandoc -s -S resume.md -o resume.docx
+	pandoc -s resume.md -o resume.docx \
+	--from markdown+smart --to docx
 
 rtf: resume.md
-	pandoc -s -S resume.md -o resume.rtf
+	pandoc -s resume.md -o resume.rtf \
+        --from markdown+smart --to rtf
 
 clean:
 	rm resume.html

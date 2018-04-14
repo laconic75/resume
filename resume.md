@@ -3,8 +3,8 @@ Joel Robinson
 
 ----
 
->  DevOps architect proficent in Linux, Bash, Python, Terraform, and Ansible.
->  
+>  DevOps architect proficient in Linux, Bash, Python, Terraform, Packer, Ansible and AWS.
+> 
 
 ----
 
@@ -29,7 +29,7 @@ Experience
 ----------
 
 **George's TV and Appliance:**
-    
+
 #### Electronics Technician
 
 I did troubleshooting and repair on consumer electronics, and computers. I also did 
@@ -46,27 +46,31 @@ that served as a Samba and an FTP server. I also set up a local DNS server with 
 
 **BBVA Compass:**
 
-#### Techincal Architect II
+#### Technical Architect II
 
-I am working principaly in automation in deployment and testing, and programing best practices. 
+I am working principally in automation in deployment and testing, and programing best practices. 
 We have been working to move our infrastructure to AWS and have been using [Terraform](https://www.terraform.io) and [Ansible](https://www.ansible.com)
 to set up our infrastructure as code. I'd consider myself a Linux Administrator, who also enjoys
-coding and scripting. I've also been the pricipal Adminstrator for [Bitbucket](https://www.atlassian.com/software/bitbucket/server)
+coding and scripting. I've also been the principal Administrator for [Bitbucket](https://www.atlassian.com/software/bitbucket/server)
 , [Bamboo](https://www.atlassian.com/software/bamboo), [Nexus](https://www.atlassian.com/software/bamboo), 
 [Sonarqube](https://www.sonarqube.org/) and [Jenkins](https://jenkins.io), which we are using as part
-of our continous delivery pipeline. I've also been the pricipal contact for techincal questions regarding Git and Maven. 
-I'm RHCSA certified for Red Hat Linux and am proficient in Bash scripting and Python. 
+of our continuous delivery pipeline. I've also been the principal contact for technical questions regarding Git and Maven. 
+I am certified in all of the AWS associate level certifications.
+I was RHCSA certified for Red Hat Linux, but it's now lapsed.  I am proficient in Bash scripting and Python. 
 
 Technical Projects and Education 
 --------------------------------
 
 Github 
-:   **laconic75** A couple of small [side projects](https://github.com/laconic75) 
+:   [**laconic75**](https://github.com/laconic75) A couple of small side projects
 
-Certification
+Certifications
 :   **A+** [COMP001004346183](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LW62JPE2LEBEQM5Q)
 :   **Network+** [COMP001004346183](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LW62JPE2LEBEQM5Q)
-:   **RHCSA** [140-039-298](https://www.redhat.com/rhtapps/certification/badge/verify/7EU4NSYFWKQ4YVPXCIY4HSZBP4AEQU3CUPSQX2KSDXT6RW46LQ37ULE25V3KCXMMFRIX6PMBNQZGA4U5NQYTCNA62RUWOCM34WWBUYQ=)
+:   **AWS Certified Solutions Architect – Associate** [SAA](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=Z9V2WN121FQE1HK3)
+:   **AWS Certified Developer – Associate** [DVA](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=Z9V2WN121FQE1HK3)
+:   **AWS Certified SysOps Administrator – Associate** [SOA](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=Z9V2WN121FQE1HK3)
+:   **RHCSA** 140-039-298 -- now lapsed
 
 Programming Languages
 :   **Python**
@@ -74,20 +78,39 @@ Programming Languages
 :   **Ansible**
 :   **Terraform**
 :   **Java**
-:   **C++**, some basic knowlege 
+:   **C++**, some basic knowledge 
 
 
 Personal
 ----------------------------------------
 
-* Human Languages:
+* Spoken Languages:
 
      * English (native speaker)
-     * Spanish (started learning 20 years ago, been speaking Spanish daily for last 15 years) 
+     * Spanish (started learning 25 years ago, been speaking Spanish daily for last 18 years) 
 
 * Musical Instruments:
      * Piano
      * Guitar
+
+References
+----------------------------------------
+**Co-workers**
+
+All are former co-workers, who are now working at other firms. They can be can be contacted at any 
+stage of the interview process. 
+
+[Cory Cordell](linkedin.com/in/corywcordell)
+
+[Brian Abston](linkedin.com/in/brianabston)
+
+[John Glass](linkedin.com/in/john-glass-6610002)
+
+**Supervisor**
+
+The following is my direct supervisor. Please do not contact until the end of the interview process. 
+
+[Scott Hamrick](linkedin.com/in/scott-hamrick-79258823)
 
 ----
 
