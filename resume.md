@@ -1,4 +1,4 @@
-Joel Robinson
+[Joel Robinson](https://www.linkedin.com/in/joel-robinson-b0096b26/)
 ============
 
 ----
@@ -27,6 +27,23 @@ Coursera
 
 Experience
 ----------
+**BBVA Compass:**
+
+#### Technical Architect II
+
+I am working principally in automation in deployment and testing, and programing best practices. 
+We have been working to move our infrastructure to AWS and have been using [Terraform](https://www.terraform.io) and [Ansible](https://www.ansible.com)
+to set up our infrastructure as code. I'd consider myself a Linux Administrator, who also enjoys
+coding and scripting. I've also been the principal Administrator for [Bitbucket](https://www.atlassian.com/software/bitbucket/server)
+, [Bamboo](https://www.atlassian.com/software/bamboo), [Nexus](https://www.atlassian.com/software/bamboo), 
+[Sonarqube](https://www.sonarqube.org/) and [Jenkins](https://jenkins.io), which we are using as part
+of our continuous delivery pipeline. I've also been the principal contact for technical questions regarding Git and Maven. 
+I am certified in all of the AWS associate level certifications.
+I was RHCSA certified for Red Hat Linux, but it's now lapsed.  I am proficient in Bash scripting and Python. 
+* Employed: April 2015-Present
+* Address: 3200 7th Ave S, Birmingham, AL 35222
+* Phone: (205) 569-0329
+
 
 **George's TV and Appliance:**
 
@@ -43,20 +60,6 @@ that served as a Samba and an FTP server. I also set up a local DNS server with 
 * Phone: (205) 387-8623
 * [Company website](http://www.georgestv.net) My first website, it's very basic.
   It has some basic php to avoid repeating the menus on each page.
-
-**BBVA Compass:**
-
-#### Technical Architect II
-
-I am working principally in automation in deployment and testing, and programing best practices. 
-We have been working to move our infrastructure to AWS and have been using [Terraform](https://www.terraform.io) and [Ansible](https://www.ansible.com)
-to set up our infrastructure as code. I'd consider myself a Linux Administrator, who also enjoys
-coding and scripting. I've also been the principal Administrator for [Bitbucket](https://www.atlassian.com/software/bitbucket/server)
-, [Bamboo](https://www.atlassian.com/software/bamboo), [Nexus](https://www.atlassian.com/software/bamboo), 
-[Sonarqube](https://www.sonarqube.org/) and [Jenkins](https://jenkins.io), which we are using as part
-of our continuous delivery pipeline. I've also been the principal contact for technical questions regarding Git and Maven. 
-I am certified in all of the AWS associate level certifications.
-I was RHCSA certified for Red Hat Linux, but it's now lapsed.  I am proficient in Bash scripting and Python. 
 
 Technical Projects and Education 
 --------------------------------
