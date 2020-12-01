@@ -104,7 +104,7 @@ Deployment Scripting and Automation
     * [Terraform](https://terraform.io)
     * [Packer](https://packer.io)
     * Bash
-    * [Fabiric](http://www.fabfile.org)
+    * [Fabric](http://www.fabfile.org)
 
 Best Practices
 : Primary contact for best practices
@@ -141,12 +141,10 @@ Github
 :   [**laconic75**](https://github.com/laconic75) A couple of small side projects
 
 Certifications
-:   **A+** [COMP001004346183](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LW62JPE2LEBEQM5Q)
-:   **Network+** [COMP001004346183](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=LW62JPE2LEBEQM5Q)
-:   **AWS Certified Solutions Architect – Associate** [SAA](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=P5PFYGF2CEFE1H5B)
-:   **AWS Certified Developer – Associate** [DVA](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=P5PFYGF2CEFE1H5B)
-:   **AWS Certified SysOps Administrator – Associate** [SOA](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=P5PFYGF2CEFE1H5B)
-:   **RHCSA** [140-039-298](https://www.redhat.com/rhtapps/services/certifications/badge/verify/7EU4NSYFWKQ4YVPXCIY4HSZBP4AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
+:   **A+** [COMP001004346183](https://www.youracclaim.com/badges/54c25fa8-8b60-4b6b-8778-25c0411d976e/public_url)
+:   **Network+** [COMP001004346183](https://www.youracclaim.com/badges/33a30e9b-8c43-4703-8c93-f15a7b9f2f85/public_url)
+: **AWS Certified Certified Solutions Architect - Profesional** [SAP](https://www.youracclaim.com/badges/de43b516-7e32-4a8f-ba50-298f7c5d03c4/public_url)
+:   **RHCSA** [140-039-298](https://rhtapps.redhat.com/certifications/badge/verify/7EU4NSYFWKQ4YVPXCIY4HSZBP4AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ= )
 
 Programming Languages
 :   **Python**
@@ -171,7 +169,7 @@ Personal
 * Spoken Languages:
 
      * English (native speaker)
-     * Spanish (started learning 25 years ago, been speaking Spanish daily for last 18 years) 
+     * Spanish (started learning 25 years ago, been speaking Spanish daily for last 20 years) 
 
 * Musical Instruments:
      * Piano
