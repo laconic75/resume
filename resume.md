@@ -3,7 +3,7 @@
 
 ----
 
->  DevOps architect proficient in Linux, Bash, Python, Terraform, Packer, Ansible and AWS.
+>  DevOps architect proficient in Linux, Bash, Python, Terraform, Packer, Ansible, Docker, Kubernetes, Helm and AWS.
 > 
 
 ----
@@ -78,6 +78,9 @@ Work History
       * Installed as a Docker cluster
     * Work setting up Cloudwatch monitoring, logs and alarms on serveral applications
       * All managed with Ansible and Terraform
+    * Work with different software teams helping them to meet DevOps maturity
+    * Worked with some migrating some 3rd party software using Terraform/Ansible
+    * Migrating some in-house application to Kubernetes/Helm deployments
 
 My primary responsibilities include:
 
