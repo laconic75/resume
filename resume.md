@@ -27,11 +27,44 @@ Coursera
 
 Experience
 ----------
+**Tista Science and Technology**
+
+#### Senior Devops Developer
+
+I am working as a Devops engineer supporting the Appeals Caseflow project. 
+
+* Employed: April 2021-Present
+* Address: 1201 Seven Locks Rd, Rockville, MD 20854
+* Phone: (301) 968-3420
+
+Description
+:   Responsibilities
+
+    * Supporting and updating the Terraform and Ansible scripts used for the projects daily deployments
+    * Supporting gathering of metrics data used to measure performance or diagnose problems using DataDog and NewRelic 
+    * Maintaining and updating the AWS infrastructure
+
+Work History
+:   Projects
+
+    * Ongoing work migrating old classic load balancers to application load balancers
+    * Ongoing work migrating applications to a new VPC
+    * Adding linters and testing to DevOps code
+    * Improvements in Slack messaging from Jenkins
+    * Migrate DevOps python code from python2 to python3
+    * Migrate our application Docker instance from Ruby 2.5 to 2.7
+
+---
+
 **BBVA USA:**
 
 #### Technical Architect III
 
 I am working principally in automation in deployment and testing, and programing best practices.
+
+* Employed: April 2015-Abril 2021
+* Address: 3200 7th Ave S, Birmingham, AL 35222
+* Phone: (205) 569-0329
 
 Work History
 :   Projects 
@@ -116,10 +149,7 @@ Best Practices
     * Maven
     * npm
 
-* Employed: April 2015-Present
-* Address: 3200 7th Ave S, Birmingham, AL 35222
-* Phone: (205) 569-0329
-
+---
 
 **George's TV and Appliance:**
 
@@ -136,6 +166,10 @@ that served as a Samba and an FTP server. I also set up a local DNS server with 
 * Phone: (205) 387-8623
 * [Company website](http://www.georgestv.net) My first website, it's very basic.
   It has some basic php to avoid repeating the menus on each page.
+
+---
+
+---
 
 Technical Projects and Certifications
 -------------------------------------
